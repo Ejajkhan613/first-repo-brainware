@@ -1,13 +1,4 @@
-import pandas as pd
 
-# Data Type Conversion
-# data = {
-#     "name": ["A", "B", "C"],
-#     "class": ["X", "X", "X"],
-#     "age": ["25", "30", "35"],
-#     "salary": ["50000.0", "60000.0", "55000.0"],
-#     "date": ["2024-01-01", "2024-02-01", "2024-03-01"]
-# }
 
 # df = pd.DataFrame(data)
 
