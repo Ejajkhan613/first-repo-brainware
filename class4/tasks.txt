@@ -1,0 +1,24 @@
+1. Create a DataFrame containing:
+    Student Name
+    Roll Number
+    Marks
+
+2. Display:
+    First 3 rows
+    Last 2 rows
+
+3. Find:
+    Number of rows
+    Number of columns
+
+4. Display only the Marks column.
+
+5. Find students who scored more than 75 marks.
+df[df["marks"] > 75]
+
+6. Add a new column called Result with values "Pass" or "Fail".
+                  df["Result"] = df["marks"] >= 50
+
+7. Save the updated DataFrame to a new CSV file.
+                    to_csv("output.csv")
+                    to_excel("")

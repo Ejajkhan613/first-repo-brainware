@@ -1,0 +1,8 @@
+1. add the files to push into github
+    git add .
+
+2. add a commit message
+    git commit -m "COMMIT MESSAGE HERE"
+
+3. push the code to github
+    git push
